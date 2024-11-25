@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+}
+.navbar  ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    background-color:crimson;
+    overflow: hidden;
+}
+.navbar a{
+    color:white;
+    width: 150px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    border-right: 2px dashed black;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: black;
+}
+.navbar li{
+    float: left;
+
+}
